@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-21T23:39:10.554Z",
+  "checkedAt": "2026-08-21T23:41:13.545Z",
   "sourceUrl": "https://www.piccioleague.it/listone/",
   "httpStatus": 200,
   "contentType": "text/html; charset=utf-8",
@@ -9,5 +9,8 @@
     "/static/js/alpine.min.js",
     "/static/js/gsap.min.js"
   ],
-  "apiHints": []
+  "apiHints": [],
+  "playerLinkCount": 491,
+  "knownPlayerIndex": 174853,
+  "knownPlayerContext": "                                  28\n                                </td>\n                            </tr>\n                        \n                            <tr data-cerca=\"skorupski bologna\"\n                                data-nome=\"Skorupski\"\n                                data-ruolo=\"Goalkeeper\"\n                                data-club=\"Bologna\"\n                                data-quotazione=\"10\"\n                                data-fvm=\"37\">\n                                <td class=\"bl-td\">\n                                    <a href=\"/giocatore/1761/\"\n                                       class=\"font-bold text-bl-white hover:text-bl-blue transition-colors\">Skorupski</a>\n                                </td>\n                                <td class=\"bl-td bl-td-center\">\n                                    <span class=\"bl-tag bl-tag-mute\" title=\"Portiere\">\n                                        P\n                                    </span>\n                                </td>\n            "
 }
