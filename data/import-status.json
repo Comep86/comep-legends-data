@@ -1,0 +1,13 @@
+{
+  "checkedAt": "2026-08-21T23:37:59.378Z",
+  "sourceUrl": "https://www.piccioleague.it/listone/",
+  "httpStatus": 200,
+  "contentType": "text/html; charset=utf-8",
+  "htmlLength": 809049,
+  "detectedPlayers": 0,
+  "scriptSources": [
+    "/static/js/alpine.min.js",
+    "/static/js/gsap.min.js"
+  ],
+  "apiHints": []
+}
