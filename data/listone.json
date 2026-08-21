@@ -1,10 +1,3450 @@
 {
   "schemaVersion": 1,
-  "updatedAt": null,
+  "updatedAt": "2026-08-21T23:46:38.742Z",
   "source": {
     "name": "Piccio League – Listone quotazioni",
-    "status": "pending-first-refresh"
+    "url": "https://www.piccioleague.it/listone/",
+    "status": "verified-import",
+    "note": "Fonte gratuita usata come backup tecnico per le quotazioni; il sito mostra sempre data e provenienza."
   },
-  "playerCount": 0,
-  "players": []
+  "playerCount": 491,
+  "players": [
+    {
+      "name": "Martinez L.",
+      "role": "A",
+      "team": "Inter",
+      "quote": 35,
+      "marketValue": 370
+    },
+    {
+      "name": "Malen",
+      "role": "A",
+      "team": "Roma",
+      "quote": 34,
+      "marketValue": 365
+    },
+    {
+      "name": "Dimarco",
+      "role": "D",
+      "team": "Inter",
+      "quote": 32,
+      "marketValue": 265
+    },
+    {
+      "name": "Paz N.",
+      "role": "C",
+      "team": "Como",
+      "quote": 30,
+      "marketValue": 250
+    },
+    {
+      "name": "Thuram",
+      "role": "A",
+      "team": "Inter",
+      "quote": 29,
+      "marketValue": 280
+    },
+    {
+      "name": "Hojlund",
+      "role": "A",
+      "team": "Napoli",
+      "quote": 28,
+      "marketValue": 271
+    },
+    {
+      "name": "McTominay",
+      "role": "C",
+      "team": "Napoli",
+      "quote": 28,
+      "marketValue": 240
+    },
+    {
+      "name": "Calhanoglu",
+      "role": "C",
+      "team": "Inter",
+      "quote": 27,
+      "marketValue": 230
+    },
+    {
+      "name": "Ramos G.",
+      "role": "A",
+      "team": "Milan",
+      "quote": 27,
+      "marketValue": 240
+    },
+    {
+      "name": "Kolo Muani",
+      "role": "A",
+      "team": "Juventus",
+      "quote": 26,
+      "marketValue": 225
+    },
+    {
+      "name": "Orsolini",
+      "role": "C",
+      "team": "Bologna",
+      "quote": 26,
+      "marketValue": 200
+    },
+    {
+      "name": "Kean",
+      "role": "A",
+      "team": "Fiorentina",
+      "quote": 25,
+      "marketValue": 212
+    },
+    {
+      "name": "Pulisic",
+      "role": "C",
+      "team": "Milan",
+      "quote": 25,
+      "marketValue": 180
+    },
+    {
+      "name": "Yildiz",
+      "role": "A",
+      "team": "Juventus",
+      "quote": 23,
+      "marketValue": 200
+    },
+    {
+      "name": "Rabiot",
+      "role": "C",
+      "team": "Milan",
+      "quote": 22,
+      "marketValue": 128
+    },
+    {
+      "name": "Douvikas",
+      "role": "A",
+      "team": "Como",
+      "quote": 20,
+      "marketValue": 157
+    },
+    {
+      "name": "Baturina",
+      "role": "C",
+      "team": "Como",
+      "quote": 19,
+      "marketValue": 102
+    },
+    {
+      "name": "Davis K.",
+      "role": "A",
+      "team": "Udinese",
+      "quote": 19,
+      "marketValue": 121
+    },
+    {
+      "name": "Scamacca",
+      "role": "A",
+      "team": "Atalanta",
+      "quote": 19,
+      "marketValue": 128
+    },
+    {
+      "name": "Berardi",
+      "role": "A",
+      "team": "Sassuolo",
+      "quote": 18,
+      "marketValue": 115
+    },
+    {
+      "name": "Da Cunha",
+      "role": "C",
+      "team": "Como",
+      "quote": 18,
+      "marketValue": 90
+    },
+    {
+      "name": "Krstovic",
+      "role": "A",
+      "team": "Atalanta",
+      "quote": 18,
+      "marketValue": 100
+    },
+    {
+      "name": "Leao",
+      "role": "A",
+      "team": "Milan",
+      "quote": 18,
+      "marketValue": 120
+    },
+    {
+      "name": "Svilar",
+      "role": "P",
+      "team": "Roma",
+      "quote": 18,
+      "marketValue": 65
+    },
+    {
+      "name": "Zaniolo",
+      "role": "C",
+      "team": "Udinese",
+      "quote": 18,
+      "marketValue": 90
+    },
+    {
+      "name": "Atta",
+      "role": "C",
+      "team": "Fiorentina",
+      "quote": 17,
+      "marketValue": 87
+    },
+    {
+      "name": "Barella",
+      "role": "C",
+      "team": "Inter",
+      "quote": 17,
+      "marketValue": 82
+    },
+    {
+      "name": "De Ketelaere",
+      "role": "A",
+      "team": "Atalanta",
+      "quote": 17,
+      "marketValue": 106
+    },
+    {
+      "name": "Martinez Jo.",
+      "role": "P",
+      "team": "Inter",
+      "quote": 17,
+      "marketValue": 63
+    },
+    {
+      "name": "McKennie",
+      "role": "C",
+      "team": "Juventus",
+      "quote": 17,
+      "marketValue": 68
+    },
+    {
+      "name": "Wesley",
+      "role": "D",
+      "team": "Roma",
+      "quote": 17,
+      "marketValue": 90
+    },
+    {
+      "name": "Akanji",
+      "role": "D",
+      "team": "Inter",
+      "quote": 16,
+      "marketValue": 55
+    },
+    {
+      "name": "Butez",
+      "role": "P",
+      "team": "Como",
+      "quote": 16,
+      "marketValue": 56
+    },
+    {
+      "name": "Carnesecchi",
+      "role": "P",
+      "team": "Atalanta",
+      "quote": 16,
+      "marketValue": 52
+    },
+    {
+      "name": "Dovbyk",
+      "role": "A",
+      "team": "Bologna",
+      "quote": 16,
+      "marketValue": 84
+    },
+    {
+      "name": "Esposito F.P.",
+      "role": "A",
+      "team": "Inter",
+      "quote": 16,
+      "marketValue": 93
+    },
+    {
+      "name": "Zaccagni",
+      "role": "C",
+      "team": "Lazio",
+      "quote": 16,
+      "marketValue": 91
+    },
+    {
+      "name": "Bremer",
+      "role": "D",
+      "team": "Juventus",
+      "quote": 15,
+      "marketValue": 50
+    },
+    {
+      "name": "De Bruyne",
+      "role": "C",
+      "team": "Napoli",
+      "quote": 15,
+      "marketValue": 100
+    },
+    {
+      "name": "Laurientè",
+      "role": "A",
+      "team": "Sassuolo",
+      "quote": 15,
+      "marketValue": 88
+    },
+    {
+      "name": "Maignan",
+      "role": "P",
+      "team": "Milan",
+      "quote": 15,
+      "marketValue": 50
+    },
+    {
+      "name": "Mancini",
+      "role": "D",
+      "team": "Roma",
+      "quote": 15,
+      "marketValue": 49
+    },
+    {
+      "name": "Pellegrino M.",
+      "role": "A",
+      "team": "Parma",
+      "quote": 15,
+      "marketValue": 81
+    },
+    {
+      "name": "Simeone",
+      "role": "A",
+      "team": "Torino",
+      "quote": 15,
+      "marketValue": 82
+    },
+    {
+      "name": "Bastoni",
+      "role": "D",
+      "team": "Inter",
+      "quote": 14,
+      "marketValue": 44
+    },
+    {
+      "name": "Castro S.",
+      "role": "A",
+      "team": "Roma",
+      "quote": 14,
+      "marketValue": 83
+    },
+    {
+      "name": "Dybala",
+      "role": "A",
+      "team": "Roma",
+      "quote": 14,
+      "marketValue": 67
+    },
+    {
+      "name": "Pavlovic",
+      "role": "D",
+      "team": "Milan",
+      "quote": 14,
+      "marketValue": 48
+    },
+    {
+      "name": "Rrahmani",
+      "role": "D",
+      "team": "Napoli",
+      "quote": 14,
+      "marketValue": 47
+    },
+    {
+      "name": "Santos A.",
+      "role": "A",
+      "team": "Napoli",
+      "quote": 14,
+      "marketValue": 60
+    },
+    {
+      "name": "Vlasic",
+      "role": "C",
+      "team": "Torino",
+      "quote": 14,
+      "marketValue": 80
+    },
+    {
+      "name": "De Gea",
+      "role": "P",
+      "team": "Fiorentina",
+      "quote": 13,
+      "marketValue": 45
+    },
+    {
+      "name": "Esposito Se.",
+      "role": "A",
+      "team": "Cagliari",
+      "quote": 13,
+      "marketValue": 50
+    },
+    {
+      "name": "Gudmundsson A.",
+      "role": "C",
+      "team": "Fiorentina",
+      "quote": 13,
+      "marketValue": 61
+    },
+    {
+      "name": "Kalulu",
+      "role": "D",
+      "team": "Juventus",
+      "quote": 13,
+      "marketValue": 46
+    },
+    {
+      "name": "N&#x27;Dicka",
+      "role": "D",
+      "team": "Roma",
+      "quote": 13,
+      "marketValue": 44
+    },
+    {
+      "name": "Nkunku",
+      "role": "A",
+      "team": "Milan",
+      "quote": 13,
+      "marketValue": 52
+    },
+    {
+      "name": "Pinamonti",
+      "role": "A",
+      "team": "Sassuolo",
+      "quote": 13,
+      "marketValue": 58
+    },
+    {
+      "name": "Raspadori",
+      "role": "A",
+      "team": "Atalanta",
+      "quote": 13,
+      "marketValue": 62
+    },
+    {
+      "name": "Solet",
+      "role": "D",
+      "team": "Udinese",
+      "quote": 13,
+      "marketValue": 46
+    },
+    {
+      "name": "Taylor K.",
+      "role": "C",
+      "team": "Lazio",
+      "quote": 13,
+      "marketValue": 64
+    },
+    {
+      "name": "Adams A.",
+      "role": "A",
+      "team": "Venezia",
+      "quote": 12,
+      "marketValue": 52
+    },
+    {
+      "name": "Alajbegovic",
+      "role": "C",
+      "team": "Juventus",
+      "quote": 12,
+      "marketValue": 57
+    },
+    {
+      "name": "Conceicao",
+      "role": "C",
+      "team": "Juventus",
+      "quote": 12,
+      "marketValue": 60
+    },
+    {
+      "name": "Di Lorenzo",
+      "role": "D",
+      "team": "Napoli",
+      "quote": 12,
+      "marketValue": 40
+    },
+    {
+      "name": "Ederson D.S.",
+      "role": "C",
+      "team": "Atalanta",
+      "quote": 12,
+      "marketValue": 45
+    },
+    {
+      "name": "Gila",
+      "role": "D",
+      "team": "Milan",
+      "quote": 12,
+      "marketValue": 31
+    },
+    {
+      "name": "Modric",
+      "role": "C",
+      "team": "Milan",
+      "quote": 12,
+      "marketValue": 50
+    },
+    {
+      "name": "Rodriguez Je.",
+      "role": "C",
+      "team": "Como",
+      "quote": 12,
+      "marketValue": 32
+    },
+    {
+      "name": "Samardzic",
+      "role": "C",
+      "team": "Atalanta",
+      "quote": 12,
+      "marketValue": 42
+    },
+    {
+      "name": "Soulè",
+      "role": "A",
+      "team": "Roma",
+      "quote": 12,
+      "marketValue": 55
+    },
+    {
+      "name": "Stones",
+      "role": "D",
+      "team": "Inter",
+      "quote": 12,
+      "marketValue": 38
+    },
+    {
+      "name": "Baldanzi",
+      "role": "C",
+      "team": "Genoa",
+      "quote": 11,
+      "marketValue": 30
+    },
+    {
+      "name": "Bisseck",
+      "role": "D",
+      "team": "Inter",
+      "quote": 11,
+      "marketValue": 33
+    },
+    {
+      "name": "Colombo",
+      "role": "A",
+      "team": "Genoa",
+      "quote": 11,
+      "marketValue": 63
+    },
+    {
+      "name": "Diao",
+      "role": "A",
+      "team": "Como",
+      "quote": 11,
+      "marketValue": 50
+    },
+    {
+      "name": "Meret",
+      "role": "P",
+      "team": "Napoli",
+      "quote": 11,
+      "marketValue": 45
+    },
+    {
+      "name": "Ostigard",
+      "role": "D",
+      "team": "Genoa",
+      "quote": 11,
+      "marketValue": 40
+    },
+    {
+      "name": "Rowe",
+      "role": "C",
+      "team": "Bologna",
+      "quote": 11,
+      "marketValue": 37
+    },
+    {
+      "name": "Zambo Anguissa",
+      "role": "C",
+      "team": "Napoli",
+      "quote": 11,
+      "marketValue": 55
+    },
+    {
+      "name": "Bowie",
+      "role": "A",
+      "team": "Sassuolo",
+      "quote": 10,
+      "marketValue": 39
+    },
+    {
+      "name": "Casadei",
+      "role": "C",
+      "team": "Torino",
+      "quote": 10,
+      "marketValue": 37
+    },
+    {
+      "name": "Dia",
+      "role": "A",
+      "team": "Lazio",
+      "quote": 10,
+      "marketValue": 31
+    },
+    {
+      "name": "Dodò",
+      "role": "D",
+      "team": "Fiorentina",
+      "quote": 10,
+      "marketValue": 30
+    },
+    {
+      "name": "Ekkelenkamp",
+      "role": "C",
+      "team": "Udinese",
+      "quote": 10,
+      "marketValue": 41
+    },
+    {
+      "name": "Hermoso",
+      "role": "D",
+      "team": "Roma",
+      "quote": 10,
+      "marketValue": 26
+    },
+    {
+      "name": "Konè M.",
+      "role": "C",
+      "team": "Roma",
+      "quote": 10,
+      "marketValue": 42
+    },
+    {
+      "name": "Lukaku",
+      "role": "A",
+      "team": "Napoli",
+      "quote": 10,
+      "marketValue": 45
+    },
+    {
+      "name": "Perrone",
+      "role": "C",
+      "team": "Como",
+      "quote": 10,
+      "marketValue": 38
+    },
+    {
+      "name": "Politano",
+      "role": "C",
+      "team": "Napoli",
+      "quote": 10,
+      "marketValue": 47
+    },
+    {
+      "name": "Ramon",
+      "role": "D",
+      "team": "Como",
+      "quote": 10,
+      "marketValue": 32
+    },
+    {
+      "name": "Ratkov",
+      "role": "A",
+      "team": "Lazio",
+      "quote": 10,
+      "marketValue": 32
+    },
+    {
+      "name": "Saelemaekers",
+      "role": "C",
+      "team": "Milan",
+      "quote": 10,
+      "marketValue": 43
+    },
+    {
+      "name": "Scalvini",
+      "role": "D",
+      "team": "Atalanta",
+      "quote": 10,
+      "marketValue": 28
+    },
+    {
+      "name": "Skorupski",
+      "role": "P",
+      "team": "Bologna",
+      "quote": 10,
+      "marketValue": 37
+    },
+    {
+      "name": "Thorstvedt",
+      "role": "C",
+      "team": "Sassuolo",
+      "quote": 10,
+      "marketValue": 41
+    },
+    {
+      "name": "Thuram K.",
+      "role": "C",
+      "team": "Juventus",
+      "quote": 10,
+      "marketValue": 41
+    },
+    {
+      "name": "Zielinski",
+      "role": "C",
+      "team": "Inter",
+      "quote": 10,
+      "marketValue": 41
+    },
+    {
+      "name": "Adams C.",
+      "role": "A",
+      "team": "Torino",
+      "quote": 9,
+      "marketValue": 32
+    },
+    {
+      "name": "Bernardeschi",
+      "role": "C",
+      "team": "Bologna",
+      "quote": 9,
+      "marketValue": 21
+    },
+    {
+      "name": "Cambiaso",
+      "role": "D",
+      "team": "Juventus",
+      "quote": 9,
+      "marketValue": 27
+    },
+    {
+      "name": "Cancellieri",
+      "role": "C",
+      "team": "Lazio",
+      "quote": 9,
+      "marketValue": 28
+    },
+    {
+      "name": "Caprile",
+      "role": "P",
+      "team": "Cagliari",
+      "quote": 9,
+      "marketValue": 27
+    },
+    {
+      "name": "Cutrone",
+      "role": "A",
+      "team": "Monza",
+      "quote": 9,
+      "marketValue": 33
+    },
+    {
+      "name": "David",
+      "role": "A",
+      "team": "Juventus",
+      "quote": 9,
+      "marketValue": 40
+    },
+    {
+      "name": "Di Gregorio",
+      "role": "P",
+      "team": "Juventus",
+      "quote": 9,
+      "marketValue": 40
+    },
+    {
+      "name": "Geubbels",
+      "role": "A",
+      "team": "Lecce",
+      "quote": 9,
+      "marketValue": 25
+    },
+    {
+      "name": "Ghedjemis",
+      "role": "A",
+      "team": "Frosinone",
+      "quote": 9,
+      "marketValue": 30
+    },
+    {
+      "name": "Isaksen",
+      "role": "C",
+      "team": "Lazio",
+      "quote": 9,
+      "marketValue": 25
+    },
+    {
+      "name": "Konè I.",
+      "role": "C",
+      "team": "Sassuolo",
+      "quote": 9,
+      "marketValue": 20
+    },
+    {
+      "name": "Mandas",
+      "role": "P",
+      "team": "Lazio",
+      "quote": 9,
+      "marketValue": 30
+    },
+    {
+      "name": "Mandragora",
+      "role": "C",
+      "team": "Fiorentina",
+      "quote": 9,
+      "marketValue": 28
+    },
+    {
+      "name": "Okoye",
+      "role": "P",
+      "team": "Udinese",
+      "quote": 9,
+      "marketValue": 29
+    },
+    {
+      "name": "Pasalic",
+      "role": "C",
+      "team": "Atalanta",
+      "quote": 9,
+      "marketValue": 32
+    },
+    {
+      "name": "Vasquez",
+      "role": "D",
+      "team": "Genoa",
+      "quote": 9,
+      "marketValue": 33
+    },
+    {
+      "name": "Bartesaghi",
+      "role": "D",
+      "team": "Milan",
+      "quote": 8,
+      "marketValue": 25
+    },
+    {
+      "name": "Bijlow",
+      "role": "P",
+      "team": "Genoa",
+      "quote": 8,
+      "marketValue": 18
+    },
+    {
+      "name": "Cambiaghi",
+      "role": "C",
+      "team": "Bologna",
+      "quote": 8,
+      "marketValue": 25
+    },
+    {
+      "name": "Celik",
+      "role": "D",
+      "team": "Juventus",
+      "quote": 8,
+      "marketValue": 21
+    },
+    {
+      "name": "Colpani",
+      "role": "C",
+      "team": "Monza",
+      "quote": 8,
+      "marketValue": 25
+    },
+    {
+      "name": "Cristante",
+      "role": "C",
+      "team": "Roma",
+      "quote": 8,
+      "marketValue": 29
+    },
+    {
+      "name": "Dallinga",
+      "role": "A",
+      "team": "Bologna",
+      "quote": 8,
+      "marketValue": 23
+    },
+    {
+      "name": "Delprato",
+      "role": "D",
+      "team": "Parma",
+      "quote": 8,
+      "marketValue": 21
+    },
+    {
+      "name": "Diouf",
+      "role": "C",
+      "team": "Inter",
+      "quote": 8,
+      "marketValue": 37
+    },
+    {
+      "name": "Dragusin",
+      "role": "D",
+      "team": "Fiorentina",
+      "quote": 8,
+      "marketValue": 27
+    },
+    {
+      "name": "Fagioli",
+      "role": "C",
+      "team": "Fiorentina",
+      "quote": 8,
+      "marketValue": 23
+    },
+    {
+      "name": "Falcone",
+      "role": "P",
+      "team": "Lecce",
+      "quote": 8,
+      "marketValue": 25
+    },
+    {
+      "name": "Hien",
+      "role": "D",
+      "team": "Atalanta",
+      "quote": 8,
+      "marketValue": 16
+    },
+    {
+      "name": "Jimenez A.",
+      "role": "D",
+      "team": "Fiorentina",
+      "quote": 8,
+      "marketValue": 23
+    },
+    {
+      "name": "Koulierakis",
+      "role": "D",
+      "team": "Roma",
+      "quote": 8,
+      "marketValue": 20
+    },
+    {
+      "name": "Locatelli",
+      "role": "C",
+      "team": "Juventus",
+      "quote": 8,
+      "marketValue": 32
+    },
+    {
+      "name": "Lucumì",
+      "role": "D",
+      "team": "Bologna",
+      "quote": 8,
+      "marketValue": 18
+    },
+    {
+      "name": "Mina",
+      "role": "D",
+      "team": "Cagliari",
+      "quote": 8,
+      "marketValue": 20
+    },
+    {
+      "name": "Miranda J.",
+      "role": "D",
+      "team": "Bologna",
+      "quote": 8,
+      "marketValue": 24
+    },
+    {
+      "name": "Ndour",
+      "role": "C",
+      "team": "Fiorentina",
+      "quote": 8,
+      "marketValue": 25
+    },
+    {
+      "name": "Norton-Cuffy",
+      "role": "D",
+      "team": "Genoa",
+      "quote": 8,
+      "marketValue": 22
+    },
+    {
+      "name": "Odgaard",
+      "role": "C",
+      "team": "Bologna",
+      "quote": 8,
+      "marketValue": 22
+    },
+    {
+      "name": "Piccoli",
+      "role": "A",
+      "team": "Fiorentina",
+      "quote": 8,
+      "marketValue": 24
+    },
+    {
+      "name": "Rrahmani Al.",
+      "role": "A",
+      "team": "Venezia",
+      "quote": 8,
+      "marketValue": 20
+    },
+    {
+      "name": "Spinazzola",
+      "role": "D",
+      "team": "Napoli",
+      "quote": 8,
+      "marketValue": 24
+    },
+    {
+      "name": "Sucic P.",
+      "role": "C",
+      "team": "Inter",
+      "quote": 8,
+      "marketValue": 26
+    },
+    {
+      "name": "Valeri",
+      "role": "D",
+      "team": "Parma",
+      "quote": 8,
+      "marketValue": 24
+    },
+    {
+      "name": "Vergara",
+      "role": "C",
+      "team": "Napoli",
+      "quote": 8,
+      "marketValue": 34
+    },
+    {
+      "name": "Vitinha O.",
+      "role": "A",
+      "team": "Genoa",
+      "quote": 8,
+      "marketValue": 20
+    },
+    {
+      "name": "Vojvoda",
+      "role": "D",
+      "team": "Udinese",
+      "quote": 8,
+      "marketValue": 19
+    },
+    {
+      "name": "Yeboah J.",
+      "role": "A",
+      "team": "Venezia",
+      "quote": 8,
+      "marketValue": 28
+    },
+    {
+      "name": "Zappacosta",
+      "role": "D",
+      "team": "Atalanta",
+      "quote": 8,
+      "marketValue": 24
+    },
+    {
+      "name": "Bernabè",
+      "role": "C",
+      "team": "Parma",
+      "quote": 7,
+      "marketValue": 36
+    },
+    {
+      "name": "Bonny",
+      "role": "A",
+      "team": "Inter",
+      "quote": 7,
+      "marketValue": 21
+    },
+    {
+      "name": "Buongiorno",
+      "role": "D",
+      "team": "Napoli",
+      "quote": 7,
+      "marketValue": 18
+    },
+    {
+      "name": "Calò",
+      "role": "C",
+      "team": "Frosinone",
+      "quote": 7,
+      "marketValue": 25
+    },
+    {
+      "name": "Carlos Augusto",
+      "role": "D",
+      "team": "Inter",
+      "quote": 7,
+      "marketValue": 27
+    },
+    {
+      "name": "Coco",
+      "role": "D",
+      "team": "Torino",
+      "quote": 7,
+      "marketValue": 18
+    },
+    {
+      "name": "Daffara",
+      "role": "P",
+      "team": "Parma",
+      "quote": 7,
+      "marketValue": 5
+    },
+    {
+      "name": "Djimsiti",
+      "role": "D",
+      "team": "Atalanta",
+      "quote": 7,
+      "marketValue": 16
+    },
+    {
+      "name": "Doekhi",
+      "role": "D",
+      "team": "Lazio",
+      "quote": 7,
+      "marketValue": 22
+    },
+    {
+      "name": "Fazzini",
+      "role": "C",
+      "team": "Cagliari",
+      "quote": 7,
+      "marketValue": 19
+    },
+    {
+      "name": "Ferguson",
+      "role": "C",
+      "team": "Bologna",
+      "quote": 7,
+      "marketValue": 18
+    },
+    {
+      "name": "Frattesi",
+      "role": "C",
+      "team": "Inter",
+      "quote": 7,
+      "marketValue": 13
+    },
+    {
+      "name": "Frendrup",
+      "role": "C",
+      "team": "Genoa",
+      "quote": 7,
+      "marketValue": 19
+    },
+    {
+      "name": "Gabbia",
+      "role": "D",
+      "team": "Milan",
+      "quote": 7,
+      "marketValue": 23
+    },
+    {
+      "name": "Gaetano",
+      "role": "C",
+      "team": "Atalanta",
+      "quote": 7,
+      "marketValue": 24
+    },
+    {
+      "name": "Idzes",
+      "role": "D",
+      "team": "Sassuolo",
+      "quote": 7,
+      "marketValue": 19
+    },
+    {
+      "name": "Ismajli",
+      "role": "D",
+      "team": "Torino",
+      "quote": 7,
+      "marketValue": 18
+    },
+    {
+      "name": "Kaiki",
+      "role": "D",
+      "team": "Como",
+      "quote": 7,
+      "marketValue": 23
+    },
+    {
+      "name": "Kristensen T.",
+      "role": "D",
+      "team": "Udinese",
+      "quote": 7,
+      "marketValue": 15
+    },
+    {
+      "name": "Lobotka",
+      "role": "C",
+      "team": "Napoli",
+      "quote": 7,
+      "marketValue": 20
+    },
+    {
+      "name": "Muric",
+      "role": "P",
+      "team": "Sassuolo",
+      "quote": 7,
+      "marketValue": 15
+    },
+    {
+      "name": "Obert",
+      "role": "D",
+      "team": "Cagliari",
+      "quote": 7,
+      "marketValue": 14
+    },
+    {
+      "name": "Oristanio",
+      "role": "C",
+      "team": "Torino",
+      "quote": 7,
+      "marketValue": 27
+    },
+    {
+      "name": "Pessina",
+      "role": "C",
+      "team": "Monza",
+      "quote": 7,
+      "marketValue": 20
+    },
+    {
+      "name": "Raimondo",
+      "role": "A",
+      "team": "Frosinone",
+      "quote": 7,
+      "marketValue": 24
+    },
+    {
+      "name": "Romagnoli",
+      "role": "D",
+      "team": "Lazio",
+      "quote": 7,
+      "marketValue": 24
+    },
+    {
+      "name": "Stulic",
+      "role": "A",
+      "team": "Lecce",
+      "quote": 7,
+      "marketValue": 18
+    },
+    {
+      "name": "Suzuki",
+      "role": "P",
+      "team": "Parma",
+      "quote": 7,
+      "marketValue": 20
+    },
+    {
+      "name": "Tiago Gabriel",
+      "role": "D",
+      "team": "Lecce",
+      "quote": 7,
+      "marketValue": 17
+    },
+    {
+      "name": "Tomori",
+      "role": "D",
+      "team": "Milan",
+      "quote": 7,
+      "marketValue": 20
+    },
+    {
+      "name": "Unai Gomez",
+      "role": "C",
+      "team": "Udinese",
+      "quote": 7,
+      "marketValue": 23
+    },
+    {
+      "name": "Volpato",
+      "role": "C",
+      "team": "Sassuolo",
+      "quote": 7,
+      "marketValue": 23
+    },
+    {
+      "name": "Zapata D.",
+      "role": "A",
+      "team": "Torino",
+      "quote": 7,
+      "marketValue": 18
+    },
+    {
+      "name": "Adopo",
+      "role": "C",
+      "team": "Cagliari",
+      "quote": 6,
+      "marketValue": 13
+    },
+    {
+      "name": "Ahanor",
+      "role": "D",
+      "team": "Atalanta",
+      "quote": 6,
+      "marketValue": 16
+    },
+    {
+      "name": "Akinsanmiro",
+      "role": "C",
+      "team": "Monza",
+      "quote": 6,
+      "marketValue": 16
+    },
+    {
+      "name": "Basic",
+      "role": "C",
+      "team": "Venezia",
+      "quote": 6,
+      "marketValue": 19
+    },
+    {
+      "name": "Bella-Kotchap",
+      "role": "D",
+      "team": "Venezia",
+      "quote": 6,
+      "marketValue": 13
+    },
+    {
+      "name": "Bellanova",
+      "role": "D",
+      "team": "Atalanta",
+      "quote": 6,
+      "marketValue": 15
+    },
+    {
+      "name": "Bernasconi",
+      "role": "D",
+      "team": "Atalanta",
+      "quote": 6,
+      "marketValue": 17
+    },
+    {
+      "name": "Beukema",
+      "role": "D",
+      "team": "Napoli",
+      "quote": 6,
+      "marketValue": 16
+    },
+    {
+      "name": "Boga",
+      "role": "A",
+      "team": "Juventus",
+      "quote": 6,
+      "marketValue": 25
+    },
+    {
+      "name": "Caqueret",
+      "role": "C",
+      "team": "Como",
+      "quote": 6,
+      "marketValue": 20
+    },
+    {
+      "name": "Chukwueze",
+      "role": "C",
+      "team": "Milan",
+      "quote": 6,
+      "marketValue": 11
+    },
+    {
+      "name": "Circati",
+      "role": "D",
+      "team": "Parma",
+      "quote": 6,
+      "marketValue": 18
+    },
+    {
+      "name": "Comuzzo",
+      "role": "D",
+      "team": "Torino",
+      "quote": 6,
+      "marketValue": 11
+    },
+    {
+      "name": "Coulibaly L.",
+      "role": "C",
+      "team": "Lecce",
+      "quote": 6,
+      "marketValue": 14
+    },
+    {
+      "name": "Ellertsson",
+      "role": "C",
+      "team": "Genoa",
+      "quote": 6,
+      "marketValue": 18
+    },
+    {
+      "name": "Gallo",
+      "role": "D",
+      "team": "Lecce",
+      "quote": 6,
+      "marketValue": 13
+    },
+    {
+      "name": "Gimenez",
+      "role": "A",
+      "team": "Milan",
+      "quote": 6,
+      "marketValue": 14
+    },
+    {
+      "name": "Heggem",
+      "role": "D",
+      "team": "Bologna",
+      "quote": 6,
+      "marketValue": 15
+    },
+    {
+      "name": "Kamara H.",
+      "role": "D",
+      "team": "Udinese",
+      "quote": 6,
+      "marketValue": 12
+    },
+    {
+      "name": "Karlstrom",
+      "role": "C",
+      "team": "Udinese",
+      "quote": 6,
+      "marketValue": 20
+    },
+    {
+      "name": "Liberali",
+      "role": "C",
+      "team": "Como",
+      "quote": 6,
+      "marketValue": 22
+    },
+    {
+      "name": "Mangas",
+      "role": "D",
+      "team": "Monza",
+      "quote": 6,
+      "marketValue": 15
+    },
+    {
+      "name": "Marcandalli",
+      "role": "D",
+      "team": "Genoa",
+      "quote": 6,
+      "marketValue": 13
+    },
+    {
+      "name": "Marusic",
+      "role": "D",
+      "team": "Lazio",
+      "quote": 6,
+      "marketValue": 20
+    },
+    {
+      "name": "Monterisi",
+      "role": "D",
+      "team": "Frosinone",
+      "quote": 6,
+      "marketValue": 14
+    },
+    {
+      "name": "Mutandwa",
+      "role": "A",
+      "team": "Cagliari",
+      "quote": 6,
+      "marketValue": 19
+    },
+    {
+      "name": "Neres",
+      "role": "A",
+      "team": "Napoli",
+      "quote": 6,
+      "marketValue": 22
+    },
+    {
+      "name": "Nicolussi Caviglia",
+      "role": "C",
+      "team": "Parma",
+      "quote": 6,
+      "marketValue": 18
+    },
+    {
+      "name": "Noslin",
+      "role": "A",
+      "team": "Lazio",
+      "quote": 6,
+      "marketValue": 17
+    },
+    {
+      "name": "Oulai",
+      "role": "C",
+      "team": "Fiorentina",
+      "quote": 6,
+      "marketValue": 20
+    },
+    {
+      "name": "Pavard",
+      "role": "D",
+      "team": "Inter",
+      "quote": 6,
+      "marketValue": 18
+    },
+    {
+      "name": "Perin",
+      "role": "P",
+      "team": "Juventus",
+      "quote": 6,
+      "marketValue": 10
+    },
+    {
+      "name": "Pierotti",
+      "role": "C",
+      "team": "Lecce",
+      "quote": 6,
+      "marketValue": 19
+    },
+    {
+      "name": "Pobega",
+      "role": "C",
+      "team": "Bologna",
+      "quote": 6,
+      "marketValue": 14
+    },
+    {
+      "name": "Rovella",
+      "role": "C",
+      "team": "Lazio",
+      "quote": 6,
+      "marketValue": 16
+    },
+    {
+      "name": "Stankovic F.",
+      "role": "P",
+      "team": "Venezia",
+      "quote": 6,
+      "marketValue": 14
+    },
+    {
+      "name": "Sulemana K.",
+      "role": "A",
+      "team": "Atalanta",
+      "quote": 6,
+      "marketValue": 16
+    },
+    {
+      "name": "Tavares N.",
+      "role": "D",
+      "team": "Lazio",
+      "quote": 6,
+      "marketValue": 17
+    },
+    {
+      "name": "Valdepenas",
+      "role": "D",
+      "team": "Fiorentina",
+      "quote": 6,
+      "marketValue": 18
+    },
+    {
+      "name": "Valle",
+      "role": "D",
+      "team": "Como",
+      "quote": 6,
+      "marketValue": 18
+    },
+    {
+      "name": "Viery",
+      "role": "D",
+      "team": "Fiorentina",
+      "quote": 6,
+      "marketValue": 19
+    },
+    {
+      "name": "Winks",
+      "role": "C",
+      "team": "Cagliari",
+      "quote": 6,
+      "marketValue": 14
+    },
+    {
+      "name": "Zalewski",
+      "role": "C",
+      "team": "Atalanta",
+      "quote": 6,
+      "marketValue": 21
+    },
+    {
+      "name": "Zhegrova",
+      "role": "C",
+      "team": "Juventus",
+      "quote": 6,
+      "marketValue": 18
+    },
+    {
+      "name": "Zortea",
+      "role": "D",
+      "team": "Bologna",
+      "quote": 6,
+      "marketValue": 19
+    },
+    {
+      "name": "Addai",
+      "role": "C",
+      "team": "Como",
+      "quote": 5,
+      "marketValue": 10
+    },
+    {
+      "name": "Adorante",
+      "role": "A",
+      "team": "Venezia",
+      "quote": 5,
+      "marketValue": 14
+    },
+    {
+      "name": "Adzic",
+      "role": "C",
+      "team": "Sassuolo",
+      "quote": 5,
+      "marketValue": 14
+    },
+    {
+      "name": "Amondarain",
+      "role": "C",
+      "team": "Bologna",
+      "quote": 5,
+      "marketValue": 12
+    },
+    {
+      "name": "Bakola",
+      "role": "C",
+      "team": "Sassuolo",
+      "quote": 5,
+      "marketValue": 16
+    },
+    {
+      "name": "Berisha M.",
+      "role": "C",
+      "team": "Lecce",
+      "quote": 5,
+      "marketValue": 16
+    },
+    {
+      "name": "Bracaglia",
+      "role": "D",
+      "team": "Frosinone",
+      "quote": 5,
+      "marketValue": 11
+    },
+    {
+      "name": "Busio",
+      "role": "C",
+      "team": "Venezia",
+      "quote": 5,
+      "marketValue": 14
+    },
+    {
+      "name": "Cacciamani",
+      "role": "C",
+      "team": "Torino",
+      "quote": 5,
+      "marketValue": 18
+    },
+    {
+      "name": "Camarda",
+      "role": "A",
+      "team": "Milan",
+      "quote": 5,
+      "marketValue": 18
+    },
+    {
+      "name": "Dele-Bashiru",
+      "role": "C",
+      "team": "Lazio",
+      "quote": 5,
+      "marketValue": 13
+    },
+    {
+      "name": "Felici",
+      "role": "C",
+      "team": "Cagliari",
+      "quote": 5,
+      "marketValue": 10
+    },
+    {
+      "name": "Fofana Y.",
+      "role": "C",
+      "team": "Milan",
+      "quote": 5,
+      "marketValue": 23
+    },
+    {
+      "name": "Frigan",
+      "role": "A",
+      "team": "Parma",
+      "quote": 5,
+      "marketValue": 13
+    },
+    {
+      "name": "Gandelman",
+      "role": "C",
+      "team": "Lecce",
+      "quote": 5,
+      "marketValue": 14
+    },
+    {
+      "name": "Gaspar K.",
+      "role": "D",
+      "team": "Lecce",
+      "quote": 5,
+      "marketValue": 12
+    },
+    {
+      "name": "Gineitis",
+      "role": "C",
+      "team": "Torino",
+      "quote": 5,
+      "marketValue": 13
+    },
+    {
+      "name": "Haps",
+      "role": "D",
+      "team": "Venezia",
+      "quote": 5,
+      "marketValue": 11
+    },
+    {
+      "name": "Holm",
+      "role": "D",
+      "team": "Bologna",
+      "quote": 5,
+      "marketValue": 13
+    },
+    {
+      "name": "Keita M.",
+      "role": "C",
+      "team": "Parma",
+      "quote": 5,
+      "marketValue": 15
+    },
+    {
+      "name": "Kelly L.",
+      "role": "D",
+      "team": "Juventus",
+      "quote": 5,
+      "marketValue": 13
+    },
+    {
+      "name": "Kempf",
+      "role": "D",
+      "team": "Como",
+      "quote": 5,
+      "marketValue": 13
+    },
+    {
+      "name": "Kofler",
+      "role": "D",
+      "team": "Cagliari",
+      "quote": 5,
+      "marketValue": 11
+    },
+    {
+      "name": "Kolasinac",
+      "role": "D",
+      "team": "Atalanta",
+      "quote": 5,
+      "marketValue": 12
+    },
+    {
+      "name": "Koopmeiners",
+      "role": "C",
+      "team": "Juventus",
+      "quote": 5,
+      "marketValue": 14
+    },
+    {
+      "name": "Maldini",
+      "role": "A",
+      "team": "Atalanta",
+      "quote": 5,
+      "marketValue": 14
+    },
+    {
+      "name": "Martin",
+      "role": "D",
+      "team": "Genoa",
+      "quote": 5,
+      "marketValue": 15
+    },
+    {
+      "name": "Matic",
+      "role": "C",
+      "team": "Sassuolo",
+      "quote": 5,
+      "marketValue": 15
+    },
+    {
+      "name": "Meichtry",
+      "role": "C",
+      "team": "Genoa",
+      "quote": 5,
+      "marketValue": 14
+    },
+    {
+      "name": "Milinkovic-Savic V.",
+      "role": "P",
+      "team": "Napoli",
+      "quote": 5,
+      "marketValue": 10
+    },
+    {
+      "name": "Milla",
+      "role": "C",
+      "team": "Como",
+      "quote": 5,
+      "marketValue": 14
+    },
+    {
+      "name": "Mkhitaryan",
+      "role": "C",
+      "team": "Inter",
+      "quote": 5,
+      "marketValue": 19
+    },
+    {
+      "name": "Moreno M.",
+      "role": "D",
+      "team": "Venezia",
+      "quote": 5,
+      "marketValue": 11
+    },
+    {
+      "name": "Mota",
+      "role": "A",
+      "team": "Monza",
+      "quote": 5,
+      "marketValue": 18
+    },
+    {
+      "name": "Olivera",
+      "role": "D",
+      "team": "Napoli",
+      "quote": 5,
+      "marketValue": 13
+    },
+    {
+      "name": "Ondrejka",
+      "role": "C",
+      "team": "Parma",
+      "quote": 5,
+      "marketValue": 18
+    },
+    {
+      "name": "Oyono A.",
+      "role": "D",
+      "team": "Frosinone",
+      "quote": 5,
+      "marketValue": 12
+    },
+    {
+      "name": "Parisi",
+      "role": "D",
+      "team": "Fiorentina",
+      "quote": 5,
+      "marketValue": 12
+    },
+    {
+      "name": "Pedersen",
+      "role": "D",
+      "team": "Torino",
+      "quote": 5,
+      "marketValue": 13
+    },
+    {
+      "name": "Pedraza",
+      "role": "D",
+      "team": "Lazio",
+      "quote": 5,
+      "marketValue": 15
+    },
+    {
+      "name": "Perez K.",
+      "role": "C",
+      "team": "Venezia",
+      "quote": 5,
+      "marketValue": 14
+    },
+    {
+      "name": "Piotrowski",
+      "role": "C",
+      "team": "Udinese",
+      "quote": 5,
+      "marketValue": 15
+    },
+    {
+      "name": "Pisilli",
+      "role": "C",
+      "team": "Roma",
+      "quote": 5,
+      "marketValue": 17
+    },
+    {
+      "name": "Rensch",
+      "role": "D",
+      "team": "Roma",
+      "quote": 5,
+      "marketValue": 16
+    },
+    {
+      "name": "Romano",
+      "role": "C",
+      "team": "Cagliari",
+      "quote": 5,
+      "marketValue": 12
+    },
+    {
+      "name": "Sohm",
+      "role": "C",
+      "team": "Venezia",
+      "quote": 5,
+      "marketValue": 14
+    },
+    {
+      "name": "Thiam",
+      "role": "P",
+      "team": "Monza",
+      "quote": 5,
+      "marketValue": 12
+    },
+    {
+      "name": "Traorè Hj.",
+      "role": "C",
+      "team": "Genoa",
+      "quote": 5,
+      "marketValue": 11
+    },
+    {
+      "name": "Veiga D.",
+      "role": "D",
+      "team": "Lecce",
+      "quote": 5,
+      "marketValue": 11
+    },
+    {
+      "name": "Vitik",
+      "role": "D",
+      "team": "Bologna",
+      "quote": 5,
+      "marketValue": 11
+    },
+    {
+      "name": "Zè Pedro",
+      "role": "D",
+      "team": "Cagliari",
+      "quote": 5,
+      "marketValue": 11
+    },
+    {
+      "name": "Zerbin",
+      "role": "C",
+      "team": "Frosinone",
+      "quote": 5,
+      "marketValue": 13
+    },
+    {
+      "name": "Almqvist",
+      "role": "C",
+      "team": "Parma",
+      "quote": 4,
+      "marketValue": 14
+    },
+    {
+      "name": "Amorim",
+      "role": "C",
+      "team": "Genoa",
+      "quote": 4,
+      "marketValue": 11
+    },
+    {
+      "name": "Arizala",
+      "role": "D",
+      "team": "Udinese",
+      "quote": 4,
+      "marketValue": 8
+    },
+    {
+      "name": "Bertola",
+      "role": "D",
+      "team": "Udinese",
+      "quote": 4,
+      "marketValue": 10
+    },
+    {
+      "name": "Birindelli",
+      "role": "D",
+      "team": "Monza",
+      "quote": 4,
+      "marketValue": 12
+    },
+    {
+      "name": "Borrelli",
+      "role": "A",
+      "team": "Cagliari",
+      "quote": 4,
+      "marketValue": 9
+    },
+    {
+      "name": "Calvani",
+      "role": "D",
+      "team": "Frosinone",
+      "quote": 4,
+      "marketValue": 10
+    },
+    {
+      "name": "Cataldi",
+      "role": "C",
+      "team": "Lazio",
+      "quote": 4,
+      "marketValue": 12
+    },
+    {
+      "name": "Cichella",
+      "role": "C",
+      "team": "Frosinone",
+      "quote": 4,
+      "marketValue": 11
+    },
+    {
+      "name": "Comert",
+      "role": "D",
+      "team": "Torino",
+      "quote": 4,
+      "marketValue": 10
+    },
+    {
+      "name": "Correia T.",
+      "role": "D",
+      "team": "Venezia",
+      "quote": 4,
+      "marketValue": 12
+    },
+    {
+      "name": "De Roon",
+      "role": "C",
+      "team": "Atalanta",
+      "quote": 4,
+      "marketValue": 12
+    },
+    {
+      "name": "Delli Carri",
+      "role": "D",
+      "team": "Monza",
+      "quote": 4,
+      "marketValue": 11
+    },
+    {
+      "name": "Doig",
+      "role": "D",
+      "team": "Sassuolo",
+      "quote": 4,
+      "marketValue": 13
+    },
+    {
+      "name": "Douglas Luiz",
+      "role": "C",
+      "team": "Juventus",
+      "quote": 4,
+      "marketValue": 12
+    },
+    {
+      "name": "El Aynaoui",
+      "role": "C",
+      "team": "Roma",
+      "quote": 4,
+      "marketValue": 18
+    },
+    {
+      "name": "Fabbian",
+      "role": "C",
+      "team": "Fiorentina",
+      "quote": 4,
+      "marketValue": 8
+    },
+    {
+      "name": "Fitz-Jim",
+      "role": "C",
+      "team": "Torino",
+      "quote": 4,
+      "marketValue": 13
+    },
+    {
+      "name": "Folorunsho",
+      "role": "C",
+      "team": "Napoli",
+      "quote": 4,
+      "marketValue": 10
+    },
+    {
+      "name": "Gatti",
+      "role": "D",
+      "team": "Juventus",
+      "quote": 4,
+      "marketValue": 10
+    },
+    {
+      "name": "Ghilardi",
+      "role": "D",
+      "team": "Roma",
+      "quote": 4,
+      "marketValue": 10
+    },
+    {
+      "name": "Giovane",
+      "role": "A",
+      "team": "Napoli",
+      "quote": 4,
+      "marketValue": 10
+    },
+    {
+      "name": "Gueye",
+      "role": "A",
+      "team": "Udinese",
+      "quote": 4,
+      "marketValue": 7
+    },
+    {
+      "name": "Halhal",
+      "role": "D",
+      "team": "Venezia",
+      "quote": 4,
+      "marketValue": 10
+    },
+    {
+      "name": "Havel",
+      "role": "A",
+      "team": "Genoa",
+      "quote": 4,
+      "marketValue": 9
+    },
+    {
+      "name": "Ilkhan",
+      "role": "C",
+      "team": "Torino",
+      "quote": 4,
+      "marketValue": 10
+    },
+    {
+      "name": "Jashari",
+      "role": "C",
+      "team": "Milan",
+      "quote": 4,
+      "marketValue": 11
+    },
+    {
+      "name": "Kabasele",
+      "role": "D",
+      "team": "Udinese",
+      "quote": 4,
+      "marketValue": 9
+    },
+    {
+      "name": "Koutsoupias",
+      "role": "C",
+      "team": "Frosinone",
+      "quote": 4,
+      "marketValue": 12
+    },
+    {
+      "name": "Kulenovic",
+      "role": "A",
+      "team": "Torino",
+      "quote": 4,
+      "marketValue": 9
+    },
+    {
+      "name": "Kvernadze",
+      "role": "A",
+      "team": "Frosinone",
+      "quote": 4,
+      "marketValue": 15
+    },
+    {
+      "name": "Loftus-Cheek",
+      "role": "C",
+      "team": "Milan",
+      "quote": 4,
+      "marketValue": 11
+    },
+    {
+      "name": "Lucchesi",
+      "role": "D",
+      "team": "Monza",
+      "quote": 4,
+      "marketValue": 12
+    },
+    {
+      "name": "Luis Henrique",
+      "role": "C",
+      "team": "Inter",
+      "quote": 4,
+      "marketValue": 13
+    },
+    {
+      "name": "Mendy P.",
+      "role": "A",
+      "team": "Cagliari",
+      "quote": 4,
+      "marketValue": 9
+    },
+    {
+      "name": "Mitaj",
+      "role": "D",
+      "team": "Genoa",
+      "quote": 4,
+      "marketValue": 9
+    },
+    {
+      "name": "Morata",
+      "role": "A",
+      "team": "Como",
+      "quote": 4,
+      "marketValue": 10
+    },
+    {
+      "name": "Moro N.",
+      "role": "C",
+      "team": "Bologna",
+      "quote": 4,
+      "marketValue": 10
+    },
+    {
+      "name": "Ngom",
+      "role": "C",
+      "team": "Lecce",
+      "quote": 4,
+      "marketValue": 11
+    },
+    {
+      "name": "Njie",
+      "role": "C",
+      "team": "Torino",
+      "quote": 4,
+      "marketValue": 12
+    },
+    {
+      "name": "Palmisani",
+      "role": "P",
+      "team": "Frosinone",
+      "quote": 4,
+      "marketValue": 8
+    },
+    {
+      "name": "Pongracic",
+      "role": "D",
+      "team": "Fiorentina",
+      "quote": 4,
+      "marketValue": 8
+    },
+    {
+      "name": "Prati",
+      "role": "C",
+      "team": "Cagliari",
+      "quote": 4,
+      "marketValue": 7
+    },
+    {
+      "name": "Ricci S.",
+      "role": "C",
+      "team": "Milan",
+      "quote": 4,
+      "marketValue": 11
+    },
+    {
+      "name": "Siebert",
+      "role": "D",
+      "team": "Lecce",
+      "quote": 4,
+      "marketValue": 12
+    },
+    {
+      "name": "Smolcic I.",
+      "role": "D",
+      "team": "Como",
+      "quote": 4,
+      "marketValue": 10
+    },
+    {
+      "name": "Valenti",
+      "role": "D",
+      "team": "Parma",
+      "quote": 4,
+      "marketValue": 10
+    },
+    {
+      "name": "Walukiewicz",
+      "role": "D",
+      "team": "Sassuolo",
+      "quote": 4,
+      "marketValue": 10
+    },
+    {
+      "name": "Zanoli",
+      "role": "D",
+      "team": "Udinese",
+      "quote": 4,
+      "marketValue": 10
+    },
+    {
+      "name": "Zappa",
+      "role": "D",
+      "team": "Cagliari",
+      "quote": 4,
+      "marketValue": 9
+    },
+    {
+      "name": "Aboukhlal",
+      "role": "C",
+      "team": "Torino",
+      "quote": 3,
+      "marketValue": 5
+    },
+    {
+      "name": "Akpoguma",
+      "role": "D",
+      "team": "Frosinone",
+      "quote": 3,
+      "marketValue": 7
+    },
+    {
+      "name": "Athekame",
+      "role": "D",
+      "team": "Milan",
+      "quote": 3,
+      "marketValue": 8
+    },
+    {
+      "name": "Brescianini",
+      "role": "C",
+      "team": "Fiorentina",
+      "quote": 3,
+      "marketValue": 7
+    },
+    {
+      "name": "Britschgi",
+      "role": "D",
+      "team": "Parma",
+      "quote": 3,
+      "marketValue": 10
+    },
+    {
+      "name": "Candè",
+      "role": "D",
+      "team": "Sassuolo",
+      "quote": 3,
+      "marketValue": 12
+    },
+    {
+      "name": "Carboni A.",
+      "role": "D",
+      "team": "Monza",
+      "quote": 3,
+      "marketValue": 9
+    },
+    {
+      "name": "Casale",
+      "role": "D",
+      "team": "Bologna",
+      "quote": 3,
+      "marketValue": 6
+    },
+    {
+      "name": "Cittadini",
+      "role": "D",
+      "team": "Frosinone",
+      "quote": 3,
+      "marketValue": 8
+    },
+    {
+      "name": "Colombo L.",
+      "role": "C",
+      "team": "Monza",
+      "quote": 3,
+      "marketValue": 7
+    },
+    {
+      "name": "De Winter",
+      "role": "D",
+      "team": "Milan",
+      "quote": 3,
+      "marketValue": 12
+    },
+    {
+      "name": "Deiola",
+      "role": "C",
+      "team": "Cagliari",
+      "quote": 3,
+      "marketValue": 8
+    },
+    {
+      "name": "Diallo O.",
+      "role": "C",
+      "team": "Parma",
+      "quote": 3,
+      "marketValue": 12
+    },
+    {
+      "name": "Dominguez B.",
+      "role": "C",
+      "team": "Bologna",
+      "quote": 3,
+      "marketValue": 8
+    },
+    {
+      "name": "Ekhator",
+      "role": "A",
+      "team": "Juventus",
+      "quote": 3,
+      "marketValue": 10
+    },
+    {
+      "name": "Elphege",
+      "role": "A",
+      "team": "Parma",
+      "quote": 3,
+      "marketValue": 11
+    },
+    {
+      "name": "Estupinan",
+      "role": "D",
+      "team": "Milan",
+      "quote": 3,
+      "marketValue": 9
+    },
+    {
+      "name": "Fini",
+      "role": "C",
+      "team": "Frosinone",
+      "quote": 3,
+      "marketValue": 9
+    },
+    {
+      "name": "Floriani Mussolini",
+      "role": "D",
+      "team": "Lazio",
+      "quote": 3,
+      "marketValue": 12
+    },
+    {
+      "name": "Gelli F.",
+      "role": "C",
+      "team": "Frosinone",
+      "quote": 3,
+      "marketValue": 8
+    },
+    {
+      "name": "Gilmour",
+      "role": "C",
+      "team": "Napoli",
+      "quote": 3,
+      "marketValue": 9
+    },
+    {
+      "name": "Hainaut",
+      "role": "D",
+      "team": "Venezia",
+      "quote": 3,
+      "marketValue": 7
+    },
+    {
+      "name": "Helgason",
+      "role": "C",
+      "team": "Venezia",
+      "quote": 3,
+      "marketValue": 7
+    },
+    {
+      "name": "Idrissi R.",
+      "role": "D",
+      "team": "Cagliari",
+      "quote": 3,
+      "marketValue": 7
+    },
+    {
+      "name": "Joao Mario",
+      "role": "D",
+      "team": "Fiorentina",
+      "quote": 3,
+      "marketValue": 7
+    },
+    {
+      "name": "Kossounou",
+      "role": "D",
+      "team": "Atalanta",
+      "quote": 3,
+      "marketValue": 7
+    },
+    {
+      "name": "Kouadio",
+      "role": "D",
+      "team": "Monza",
+      "quote": 3,
+      "marketValue": 9
+    },
+    {
+      "name": "Kuhn",
+      "role": "A",
+      "team": "Como",
+      "quote": 3,
+      "marketValue": 5
+    },
+    {
+      "name": "Lang",
+      "role": "A",
+      "team": "Napoli",
+      "quote": 3,
+      "marketValue": 10
+    },
+    {
+      "name": "Lucca",
+      "role": "A",
+      "team": "Napoli",
+      "quote": 3,
+      "marketValue": 10
+    },
+    {
+      "name": "Messias",
+      "role": "C",
+      "team": "Genoa",
+      "quote": 3,
+      "marketValue": 8
+    },
+    {
+      "name": "Miller L.",
+      "role": "C",
+      "team": "Udinese",
+      "quote": 3,
+      "marketValue": 12
+    },
+    {
+      "name": "Miretti",
+      "role": "C",
+      "team": "Juventus",
+      "quote": 3,
+      "marketValue": 11
+    },
+    {
+      "name": "N&#x27;Dri",
+      "role": "A",
+      "team": "Lecce",
+      "quote": 3,
+      "marketValue": 9
+    },
+    {
+      "name": "Provstgaard",
+      "role": "D",
+      "team": "Lazio",
+      "quote": 3,
+      "marketValue": 10
+    },
+    {
+      "name": "Ranieri L.",
+      "role": "D",
+      "team": "Fiorentina",
+      "quote": 3,
+      "marketValue": 7
+    },
+    {
+      "name": "Rodriguez Ju.",
+      "role": "D",
+      "team": "Cagliari",
+      "quote": 3,
+      "marketValue": 10
+    },
+    {
+      "name": "Schingtienne",
+      "role": "D",
+      "team": "Venezia",
+      "quote": 3,
+      "marketValue": 7
+    },
+    {
+      "name": "Sorensen O.",
+      "role": "C",
+      "team": "Parma",
+      "quote": 3,
+      "marketValue": 12
+    },
+    {
+      "name": "Stankovic A.",
+      "role": "C",
+      "team": "Inter",
+      "quote": 3,
+      "marketValue": 10
+    },
+    {
+      "name": "Sulemana I.",
+      "role": "C",
+      "team": "Atalanta",
+      "quote": 3,
+      "marketValue": 7
+    },
+    {
+      "name": "Sverko",
+      "role": "D",
+      "team": "Venezia",
+      "quote": 3,
+      "marketValue": 7
+    },
+    {
+      "name": "Troilo",
+      "role": "D",
+      "team": "Parma",
+      "quote": 3,
+      "marketValue": 8
+    },
+    {
+      "name": "Varela G.",
+      "role": "A",
+      "team": "Monza",
+      "quote": 3,
+      "marketValue": 7
+    },
+    {
+      "name": "Alhassane",
+      "role": "D",
+      "team": "Bologna",
+      "quote": 2,
+      "marketValue": 6
+    },
+    {
+      "name": "Biraghi",
+      "role": "D",
+      "team": "Torino",
+      "quote": 2,
+      "marketValue": 5
+    },
+    {
+      "name": "Boloca",
+      "role": "C",
+      "team": "Sassuolo",
+      "quote": 2,
+      "marketValue": 5
+    },
+    {
+      "name": "Buksa",
+      "role": "A",
+      "team": "Udinese",
+      "quote": 2,
+      "marketValue": 4
+    },
+    {
+      "name": "Chakvetadze",
+      "role": "C",
+      "team": "Udinese",
+      "quote": 2,
+      "marketValue": 6
+    },
+    {
+      "name": "Ciurria",
+      "role": "C",
+      "team": "Monza",
+      "quote": 2,
+      "marketValue": 6
+    },
+    {
+      "name": "Desplanches",
+      "role": "P",
+      "team": "Frosinone",
+      "quote": 2,
+      "marketValue": 8
+    },
+    {
+      "name": "Diawara S.",
+      "role": "D",
+      "team": "Milan",
+      "quote": 2,
+      "marketValue": 4
+    },
+    {
+      "name": "Duncan",
+      "role": "C",
+      "team": "Venezia",
+      "quote": 2,
+      "marketValue": 4
+    },
+    {
+      "name": "Ebosse",
+      "role": "D",
+      "team": "Udinese",
+      "quote": 2,
+      "marketValue": 4
+    },
+    {
+      "name": "El Azzouzi O.",
+      "role": "C",
+      "team": "Bologna",
+      "quote": 2,
+      "marketValue": 4
+    },
+    {
+      "name": "Fadera",
+      "role": "C",
+      "team": "Como",
+      "quote": 2,
+      "marketValue": 3
+    },
+    {
+      "name": "Franjic",
+      "role": "D",
+      "team": "Venezia",
+      "quote": 2,
+      "marketValue": 4
+    },
+    {
+      "name": "Hasa",
+      "role": "C",
+      "team": "Frosinone",
+      "quote": 2,
+      "marketValue": 5
+    },
+    {
+      "name": "Helland",
+      "role": "D",
+      "team": "Bologna",
+      "quote": 2,
+      "marketValue": 5
+    },
+    {
+      "name": "Jean",
+      "role": "D",
+      "team": "Lecce",
+      "quote": 2,
+      "marketValue": 4
+    },
+    {
+      "name": "Lazzari",
+      "role": "D",
+      "team": "Lazio",
+      "quote": 2,
+      "marketValue": 8
+    },
+    {
+      "name": "Lipani",
+      "role": "C",
+      "team": "Sassuolo",
+      "quote": 2,
+      "marketValue": 5
+    },
+    {
+      "name": "Maleh",
+      "role": "C",
+      "team": "Lecce",
+      "quote": 2,
+      "marketValue": 5
+    },
+    {
+      "name": "Marin R.",
+      "role": "D",
+      "team": "Napoli",
+      "quote": 2,
+      "marketValue": 6
+    },
+    {
+      "name": "Masini",
+      "role": "C",
+      "team": "Genoa",
+      "quote": 2,
+      "marketValue": 4
+    },
+    {
+      "name": "Musah",
+      "role": "C",
+      "team": "Milan",
+      "quote": 2,
+      "marketValue": 6
+    },
+    {
+      "name": "Ordonez C.",
+      "role": "C",
+      "team": "Parma",
+      "quote": 2,
+      "marketValue": 5
+    },
+    {
+      "name": "Otoa",
+      "role": "D",
+      "team": "Genoa",
+      "quote": 2,
+      "marketValue": 5
+    },
+    {
+      "name": "Palma",
+      "role": "D",
+      "team": "Udinese",
+      "quote": 2,
+      "marketValue": 5
+    },
+    {
+      "name": "Pellegrini Lu.",
+      "role": "D",
+      "team": "Lazio",
+      "quote": 2,
+      "marketValue": 5
+    },
+    {
+      "name": "Petagna",
+      "role": "A",
+      "team": "Monza",
+      "quote": 2,
+      "marketValue": 5
+    },
+    {
+      "name": "Provedel",
+      "role": "P",
+      "team": "Inter",
+      "quote": 2,
+      "marketValue": 5
+    },
+    {
+      "name": "Puczka",
+      "role": "D",
+      "team": "Genoa",
+      "quote": 2,
+      "marketValue": 7
+    },
+    {
+      "name": "Sabelli",
+      "role": "D",
+      "team": "Genoa",
+      "quote": 2,
+      "marketValue": 5
+    },
+    {
+      "name": "Sagrado",
+      "role": "D",
+      "team": "Venezia",
+      "quote": 2,
+      "marketValue": 4
+    },
+    {
+      "name": "Van Der Brempt",
+      "role": "D",
+      "team": "Como",
+      "quote": 2,
+      "marketValue": 5
+    },
+    {
+      "name": "Venturino",
+      "role": "C",
+      "team": "Genoa",
+      "quote": 2,
+      "marketValue": 6
+    },
+    {
+      "name": "Abankwah",
+      "role": "D",
+      "team": "Udinese",
+      "quote": 1,
+      "marketValue": 3
+    },
+    {
+      "name": "Albarracin",
+      "role": "A",
+      "team": "Cagliari",
+      "quote": 1,
+      "marketValue": 1
+    },
+    {
+      "name": "Amey",
+      "role": "D",
+      "team": "Frosinone",
+      "quote": 1,
+      "marketValue": 1
+    },
+    {
+      "name": "Anjorin",
+      "role": "C",
+      "team": "Torino",
+      "quote": 1,
+      "marketValue": 4
+    },
+    {
+      "name": "Antov",
+      "role": "D",
+      "team": "Monza",
+      "quote": 1,
+      "marketValue": 2
+    },
+    {
+      "name": "Azon",
+      "role": "A",
+      "team": "Como",
+      "quote": 1,
+      "marketValue": 1
+    },
+    {
+      "name": "Bakoune",
+      "role": "D",
+      "team": "Monza",
+      "quote": 1,
+      "marketValue": 4
+    },
+    {
+      "name": "Bayo V.",
+      "role": "A",
+      "team": "Udinese",
+      "quote": 1,
+      "marketValue": 3
+    },
+    {
+      "name": "Belahyane",
+      "role": "C",
+      "team": "Lazio",
+      "quote": 1,
+      "marketValue": 5
+    },
+    {
+      "name": "Bjarkason",
+      "role": "C",
+      "team": "Venezia",
+      "quote": 1,
+      "marketValue": 3
+    },
+    {
+      "name": "Cabal",
+      "role": "D",
+      "team": "Juventus",
+      "quote": 1,
+      "marketValue": 4
+    },
+    {
+      "name": "Camara A.",
+      "role": "C",
+      "team": "Udinese",
+      "quote": 1,
+      "marketValue": 3
+    },
+    {
+      "name": "Carboni F.",
+      "role": "D",
+      "team": "Parma",
+      "quote": 1,
+      "marketValue": 3
+    },
+    {
+      "name": "Christensen O.",
+      "role": "P",
+      "team": "Fiorentina",
+      "quote": 1,
+      "marketValue": 1
+    },
+    {
+      "name": "Ciocci",
+      "role": "P",
+      "team": "Cagliari",
+      "quote": 1,
+      "marketValue": 1
+    },
+    {
+      "name": "Contini",
+      "role": "P",
+      "team": "Napoli",
+      "quote": 1,
+      "marketValue": 1
+    },
+    {
+      "name": "Corrado",
+      "role": "D",
+      "team": "Frosinone",
+      "quote": 1,
+      "marketValue": 3
+    },
+    {
+      "name": "Corvi",
+      "role": "P",
+      "team": "Parma",
+      "quote": 1,
+      "marketValue": 1
+    },
+    {
+      "name": "Cremaschi",
+      "role": "C",
+      "team": "Parma",
+      "quote": 1,
+      "marketValue": 3
+    },
+    {
+      "name": "Cuenca A.",
+      "role": "D",
+      "team": "Como",
+      "quote": 1,
+      "marketValue": 8
+    },
+    {
+      "name": "Dagasso",
+      "role": "C",
+      "team": "Venezia",
+      "quote": 1,
+      "marketValue": 1
+    },
+    {
+      "name": "De Marzi",
+      "role": "P",
+      "team": "Roma",
+      "quote": 1,
+      "marketValue": 1
+    },
+    {
+      "name": "De Silvestri",
+      "role": "D",
+      "team": "Bologna",
+      "quote": 1,
+      "marketValue": 4
+    },
+    {
+      "name": "Di Gennaro",
+      "role": "P",
+      "team": "Inter",
+      "quote": 1,
+      "marketValue": 1
+    },
+    {
+      "name": "El Azzouzi A.",
+      "role": "C",
+      "team": "Frosinone",
+      "quote": 1,
+      "marketValue": 3
+    },
+    {
+      "name": "Fofana Sa.",
+      "role": "C",
+      "team": "Lecce",
+      "quote": 1,
+      "marketValue": 1
+    },
+    {
+      "name": "Gelli J.",
+      "role": "D",
+      "team": "Frosinone",
+      "quote": 1,
+      "marketValue": 1
+    },
+    {
+      "name": "Goldaniga",
+      "role": "D",
+      "team": "Como",
+      "quote": 1,
+      "marketValue": 1
+    },
+    {
+      "name": "Gollini",
+      "role": "P",
+      "team": "Roma",
+      "quote": 1,
+      "marketValue": 1
+    },
+    {
+      "name": "Gomes",
+      "role": "D",
+      "team": "Venezia",
+      "quote": 1,
+      "marketValue": 1
+    },
+    {
+      "name": "Gorter",
+      "role": "C",
+      "team": "Lecce",
+      "quote": 1,
+      "marketValue": 3
+    },
+    {
+      "name": "Grandi",
+      "role": "P",
+      "team": "Venezia",
+      "quote": 1,
+      "marketValue": 1
+    },
+    {
+      "name": "Happonen",
+      "role": "P",
+      "team": "Bologna",
+      "quote": 1,
+      "marketValue": 1
+    },
+    {
+      "name": "Iannoni",
+      "role": "C",
+      "team": "Sassuolo",
+      "quote": 1,
+      "marketValue": 1
+    },
+    {
+      "name": "Ilic",
+      "role": "C",
+      "team": "Torino",
+      "quote": 1,
+      "marketValue": 4
+    },
+    {
+      "name": "Kaba",
+      "role": "C",
+      "team": "Lecce",
+      "quote": 1,
+      "marketValue": 2
+    },
+    {
+      "name": "Kone B.",
+      "role": "C",
+      "team": "Frosinone",
+      "quote": 1,
+      "marketValue": 3
+    },
+    {
+      "name": "Lahdo",
+      "role": "C",
+      "team": "Como",
+      "quote": 1,
+      "marketValue": 1
+    },
+    {
+      "name": "Lauberbach",
+      "role": "A",
+      "team": "Venezia",
+      "quote": 1,
+      "marketValue": 1
+    },
+    {
+      "name": "Lezzerini",
+      "role": "P",
+      "team": "Fiorentina",
+      "quote": 1,
+      "marketValue": 1
+    },
+    {
+      "name": "Lisman",
+      "role": "A",
+      "team": "Venezia",
+      "quote": 1,
+      "marketValue": 1
+    },
+    {
+      "name": "Liteta",
+      "role": "C",
+      "team": "Cagliari",
+      "quote": 1,
+      "marketValue": 1
+    },
+    {
+      "name": "Lolic",
+      "role": "P",
+      "team": "Frosinone",
+      "quote": 1,
+      "marketValue": 1
+    },
+    {
+      "name": "Marianucci",
+      "role": "D",
+      "team": "Napoli",
+      "quote": 1,
+      "marketValue": 5
+    },
+    {
+      "name": "Mascardi",
+      "role": "P",
+      "team": "Torino",
+      "quote": 1,
+      "marketValue": 1
+    },
+    {
+      "name": "Matturro",
+      "role": "D",
+      "team": "Genoa",
+      "quote": 1,
+      "marketValue": 2
+    },
+    {
+      "name": "Mazzocchi",
+      "role": "D",
+      "team": "Napoli",
+      "quote": 1,
+      "marketValue": 3
+    },
+    {
+      "name": "Missori",
+      "role": "D",
+      "team": "Sassuolo",
+      "quote": 1,
+      "marketValue": 2
+    },
+    {
+      "name": "Mlacic",
+      "role": "D",
+      "team": "Udinese",
+      "quote": 1,
+      "marketValue": 3
+    },
+    {
+      "name": "Moro L.",
+      "role": "A",
+      "team": "Sassuolo",
+      "quote": 1,
+      "marketValue": 1
+    },
+    {
+      "name": "Motta",
+      "role": "P",
+      "team": "Lazio",
+      "quote": 1,
+      "marketValue": 1
+    },
+    {
+      "name": "Ndaba",
+      "role": "D",
+      "team": "Lecce",
+      "quote": 1,
+      "marketValue": 4
+    },
+    {
+      "name": "Ndiaye",
+      "role": "D",
+      "team": "Parma",
+      "quote": 1,
+      "marketValue": 4
+    },
+    {
+      "name": "Oyono J.",
+      "role": "D",
+      "team": "Frosinone",
+      "quote": 1,
+      "marketValue": 3
+    },
+    {
+      "name": "Padelli",
+      "role": "P",
+      "team": "Udinese",
+      "quote": 1,
+      "marketValue": 1
+    },
+    {
+      "name": "Paleari",
+      "role": "P",
+      "team": "Torino",
+      "quote": 1,
+      "marketValue": 1
+    },
+    {
+      "name": "Patric",
+      "role": "D",
+      "team": "Lazio",
+      "quote": 1,
+      "marketValue": 4
+    },
+    {
+      "name": "Perez M.",
+      "role": "D",
+      "team": "Lecce",
+      "quote": 1,
+      "marketValue": 1
+    },
+    {
+      "name": "Pessina Mas.",
+      "role": "P",
+      "team": "Bologna",
+      "quote": 1,
+      "marketValue": 1
+    },
+    {
+      "name": "Piana",
+      "role": "P",
+      "team": "Udinese",
+      "quote": 1,
+      "marketValue": 1
+    },
+    {
+      "name": "Pieragnolo",
+      "role": "D",
+      "team": "Sassuolo",
+      "quote": 1,
+      "marketValue": 1
+    },
+    {
+      "name": "Pinsoglio",
+      "role": "P",
+      "team": "Juventus",
+      "quote": 1,
+      "marketValue": 1
+    },
+    {
+      "name": "Pizzignacco",
+      "role": "P",
+      "team": "Monza",
+      "quote": 1,
+      "marketValue": 1
+    },
+    {
+      "name": "Pozzi",
+      "role": "P",
+      "team": "Venezia",
+      "quote": 1,
+      "marketValue": 1
+    },
+    {
+      "name": "Przyborek",
+      "role": "C",
+      "team": "Lazio",
+      "quote": 1,
+      "marketValue": 5
+    },
+    {
+      "name": "Raterink",
+      "role": "D",
+      "team": "Cagliari",
+      "quote": 1,
+      "marketValue": 1
+    },
+    {
+      "name": "Renzetti",
+      "role": "P",
+      "team": "Lazio",
+      "quote": 1,
+      "marketValue": 1
+    },
+    {
+      "name": "Rossi F.",
+      "role": "P",
+      "team": "Atalanta",
+      "quote": 1,
+      "marketValue": 1
+    },
+    {
+      "name": "Rugani",
+      "role": "D",
+      "team": "Juventus",
+      "quote": 1,
+      "marketValue": 3
+    },
+    {
+      "name": "Russo A.",
+      "role": "P",
+      "team": "Sassuolo",
+      "quote": 1,
+      "marketValue": 1
+    },
+    {
+      "name": "Samooja",
+      "role": "P",
+      "team": "Lecce",
+      "quote": 1,
+      "marketValue": 1
+    },
+    {
+      "name": "Sherri",
+      "role": "P",
+      "team": "Cagliari",
+      "quote": 1,
+      "marketValue": 1
+    },
+    {
+      "name": "Siviero",
+      "role": "P",
+      "team": "Torino",
+      "quote": 1,
+      "marketValue": 1
+    },
+    {
+      "name": "Sommariva",
+      "role": "P",
+      "team": "Genoa",
+      "quote": 1,
+      "marketValue": 1
+    },
+    {
+      "name": "Sportiello",
+      "role": "P",
+      "team": "Atalanta",
+      "quote": 1,
+      "marketValue": 1
+    },
+    {
+      "name": "Stolz",
+      "role": "P",
+      "team": "Genoa",
+      "quote": 1,
+      "marketValue": 1
+    },
+    {
+      "name": "Strajnar",
+      "role": "P",
+      "team": "Monza",
+      "quote": 1,
+      "marketValue": 1
+    },
+    {
+      "name": "Terracciano",
+      "role": "P",
+      "team": "Milan",
+      "quote": 1,
+      "marketValue": 1
+    },
+    {
+      "name": "Tornqvist",
+      "role": "P",
+      "team": "Como",
+      "quote": 1,
+      "marketValue": 1
+    },
+    {
+      "name": "Torriani",
+      "role": "P",
+      "team": "Milan",
+      "quote": 1,
+      "marketValue": 1
+    },
+    {
+      "name": "Trepy",
+      "role": "A",
+      "team": "Cagliari",
+      "quote": 1,
+      "marketValue": 2
+    },
+    {
+      "name": "Turati",
+      "role": "P",
+      "team": "Sassuolo",
+      "quote": 1,
+      "marketValue": 3
+    },
+    {
+      "name": "Vaz",
+      "role": "A",
+      "team": "Roma",
+      "quote": 1,
+      "marketValue": 4
+    },
+    {
+      "name": "Vigorito",
+      "role": "P",
+      "team": "Como",
+      "quote": 1,
+      "marketValue": 1
+    },
+    {
+      "name": "Vogliacco",
+      "role": "D",
+      "team": "Genoa",
+      "quote": 1,
+      "marketValue": 2
+    },
+    {
+      "name": "Zarraga",
+      "role": "C",
+      "team": "Udinese",
+      "quote": 1,
+      "marketValue": 4
+    },
+    {
+      "name": "Ziolkowski",
+      "role": "D",
+      "team": "Roma",
+      "quote": 1,
+      "marketValue": 2
+    }
+  ]
 }
