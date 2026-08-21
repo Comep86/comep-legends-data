@@ -81,6 +81,10 @@ async function main() {
   if (!response.ok) throw new Error(`Fonte non disponibile (HTTP ${response.status})`);
   const html = await response.text();
   const players = normalize([...rowsFromTable(html), ...rowsFromEmbeddedJson(html)]);
+  if (players.length === 0) {
+    console.error(`Diagnostica import: ${html.length} caratteri; tipo=${response.headers.get("content-type") ?? "sconosciuto"}`);
+    console.error(html.slice(0, 1200));
+  }
 
   if (players.length < 450 || players.length > 650) {
     throw new Error(`Controllo di sicurezza non superato: trovati ${players.length} calciatori`);
