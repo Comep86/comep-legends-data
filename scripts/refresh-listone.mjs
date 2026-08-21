@@ -37,6 +37,42 @@ function rowsFromTable(html) {
   return rows;
 }
 
+
+function rowsFromDataAttributes(html) {
+  const rows = [];
+  const roles = new Map([
+    ["goalkeeper", "P"],
+    ["portiere", "P"],
+    ["defender", "D"],
+    ["difensore", "D"],
+    ["midfielder", "C"],
+    ["centrocampista", "C"],
+    ["forward", "A"],
+    ["attacker", "A"],
+    ["attaccante", "A"]
+  ]);
+
+  for (const match of html.matchAll(/<tr\\b([^>]*)>/gi)) {
+    const attributes = Object.fromEntries(
+      [...match[1].matchAll(/data-([a-z-]+)=["']([^"']*)["']/gi)]
+        .map((attribute) => [attribute[1].toLowerCase(), decode(attribute[2])])
+    );
+    const role = roles.get((attributes.ruolo ?? "").toLowerCase());
+    const quote = Number((attributes.quotazione ?? "").replace(",", "."));
+    const marketValue = Number((attributes.fvm ?? "").replace(",", "."));
+
+    if (!attributes.nome || !attributes.club || !role || !Number.isFinite(quote) || quote < 1 || quote > 100) continue;
+    rows.push({
+      name: attributes.nome,
+      role,
+      team: attributes.club,
+      quote,
+      marketValue: Number.isFinite(marketValue) ? marketValue : null
+    });
+  }
+  return rows;
+}
+
 function rowsFromEmbeddedJson(html) {
   const rows = [];
   const patterns = [
@@ -80,7 +116,7 @@ async function main() {
 
   if (!response.ok) throw new Error(`Fonte non disponibile (HTTP ${response.status})`);
   const html = await response.text();
-  const players = normalize([...rowsFromTable(html), ...rowsFromEmbeddedJson(html)]);
+  const players = normalize([...rowsFromDataAttributes(html), ...rowsFromTable(html), ...rowsFromEmbeddedJson(html)]);
   if (players.length === 0) {
     console.error(`Diagnostica import: ${html.length} caratteri; tipo=${response.headers.get("content-type") ?? "sconosciuto"}`);
     console.error(html.slice(0, 1200));
