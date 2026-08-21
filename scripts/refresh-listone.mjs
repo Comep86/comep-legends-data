@@ -87,6 +87,20 @@ async function main() {
   }
 
   if (players.length < 450 || players.length > 650) {
+    const scriptSources = [...html.matchAll(/<script[^>]+src=["']([^"']+)/gi)].map((match) => match[1]).slice(0, 30);
+    const apiHints = [...html.matchAll(/(?:https?:\\/\\/|\\/)[A-Za-z0-9_./?=&-]*(?:api|listone|quotazioni)[A-Za-z0-9_./?=&-]*/gi)]
+      .map((match) => match[0]).slice(0, 30);
+    await mkdir("data", { recursive: true });
+    await writeFile("data/import-status.json", JSON.stringify({
+      checkedAt: new Date().toISOString(),
+      sourceUrl: SOURCE_URL,
+      httpStatus: response.status,
+      contentType: response.headers.get("content-type"),
+      htmlLength: html.length,
+      detectedPlayers: players.length,
+      scriptSources,
+      apiHints
+    }, null, 2) + "\n");
     throw new Error(`Controllo di sicurezza non superato: trovati ${players.length} calciatori`);
   }
 
