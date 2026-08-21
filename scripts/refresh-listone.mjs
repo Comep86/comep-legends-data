@@ -110,3 +110,4 @@ main().catch((error) => {
   console.error(error);
   process.exitCode = 1;
 });
+// Revisione iniziale: importazione attivata dal workflow GitHub.
