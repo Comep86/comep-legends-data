@@ -52,7 +52,7 @@ function rowsFromDataAttributes(html) {
     ["attaccante", "A"]
   ]);
 
-  for (const match of html.matchAll(/<tr\\b([^>]*)>/gi)) {
+  for (const match of html.matchAll(/<tr\b([^>]*)>/gi)) {
     const attributes = Object.fromEntries(
       [...match[1].matchAll(/data-([a-z-]+)=["']([^"']*)["']/gi)]
         .map((attribute) => [attribute[1].toLowerCase(), decode(attribute[2])])
