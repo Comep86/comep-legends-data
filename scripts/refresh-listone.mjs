@@ -98,7 +98,13 @@ async function main() {
       htmlLength: html.length,
       detectedPlayers: players.length,
       scriptSources,
-      apiHints
+      apiHints,
+      playerLinkCount: (html.match(/\/giocatore\//g) ?? []).length,
+      knownPlayerIndex: html.indexOf("Skorupski"),
+      knownPlayerContext: (() => {
+        const index = html.indexOf("Skorupski");
+        return index >= 0 ? html.slice(Math.max(0, index - 240), index + 780) : null;
+      })()
     }, null, 2) + "\n");
     throw new Error(`Controllo di sicurezza non superato: trovati ${players.length} calciatori`);
   }
