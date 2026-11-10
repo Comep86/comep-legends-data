@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-11-10T16:44:37.674Z",
+  "checkedAt": "2026-11-10T21:58:34.523Z",
   "sourceUrl": "https://www.piccioleague.it/listone/",
   "httpStatus": 200,
   "contentType": "text/html",
-  "htmlLength": 407940,
+  "htmlLength": 406317,
   "detectedPlayers": 0,
   "scriptSources": [
     "https://assets.teepublic.com/assets/product_page-2af4d77ccb74974f4afec6972768b6abd2dca23b01d5b2e7380c8a38dff3c308.js",
