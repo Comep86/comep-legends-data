@@ -1,9 +1,9 @@
 {
-  "checkedAt": "2026-11-28T11:17:38.069Z",
+  "checkedAt": "2026-11-28T19:02:52.083Z",
   "sourceUrl": "https://www.piccioleague.it/listone/",
   "httpStatus": 200,
   "contentType": "text/html",
-  "htmlLength": 237394,
+  "htmlLength": 233279,
   "detectedPlayers": 0,
   "scriptSources": [
     "https://public-assets.envato-static.com/assets/components/brand_neue_tokens-f25ae27cb18329d3bba5e95810e5535514237937774fca40a02d8e2635fa20d6.js",
